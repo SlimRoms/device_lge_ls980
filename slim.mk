@@ -12,7 +12,7 @@ $(call inherit-product, vendor/slim/config/common_full_phone.mk)
 $(call inherit-product, vendor/slim/config/nfc_enhanced.mk)
 
 # Inherit device configuration
-$(call inherit-product, device/lge/vs980/full_ls980.mk)
+$(call inherit-product, device/lge/ls980/full_ls980.mk)
 
 # Inherit led flash settings
 $(call inherit-product, vendor/slim/config/common_ledflash.mk)
