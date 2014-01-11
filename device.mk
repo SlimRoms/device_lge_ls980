@@ -33,9 +33,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
         telephony.sms.pseudo_multipart=1 \
         DEVICE_PROVISIONED=1
 
-PRODUCT_COPY_FILES += \
-	frameworks/native/data/etc/android.hardware.telephony.cdma.xml:system/etc/permissions/android.hardware.telephony.cdma.xml
-
 # NFC packages
 PRODUCT_PACKAGES += \
     nfc.default \
