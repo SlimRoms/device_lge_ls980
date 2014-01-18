@@ -28,7 +28,10 @@ lib/libvss_nv_idl.so
 lib/libvss_ims_qcci.so
 lib/libvss_common_core.so
 lib/libcnefeatureconfig.so
+lib/libgps.utils.so
+lib/libloc_adapter.so
 lib/libloc_api_v02.so
+lib/libloc_eng.so
 lib/libWVphoneAPI.so
 #lib/liblgftmitem.so
 #lib/liblgdrm.so
@@ -56,6 +59,9 @@ bin/bridgemgrd
 bin/irsc_util
 lib/libmmcamera_interface.so
 lib/hw/camera.msm8974.so
+lib/hw/gps.msm8974.so
+lib/hw/nfc.default.so
+lib/hw/nfc.lg.so
 lib/libHDR.so
 lib/libmorpho_noise_reduction.so
 lib/libmorpho_image_stab31.so
