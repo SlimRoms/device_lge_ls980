@@ -48,6 +48,8 @@ etc/Speaker_cal.acdb
 lib/hw/camera.vendor.msm8974.so
 lib/hw/gps.default.so
 lib/hw/gps.msm8974.so
+lib/hw/nfc.default.so
+lib/hw/nfc.lg.so
 lib/libadsprpc.so
 lib/libdrmdiag.so
 lib/libdrmfs.so
